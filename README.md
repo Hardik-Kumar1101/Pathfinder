@@ -82,9 +82,4 @@ _*Note\: The GIF images are unashamedly taken from Wikipedia as well*_
 
 ---
 
-> Stack Overflow [@khalid-saifullah](https://stackoverflow.com/users/7610724/khalid-saifullah) &nbsp;&middot;&nbsp;
-> GitHub [@khalidsaifullaah](https://github.com/khalidsaifullaah) &nbsp;&middot;&nbsp;
-> Facebook [@ikhalidsaifullaah](https://www.facebook.com/ikhalidsaifullaah/) &nbsp;&middot;&nbsp;
-> Twitter [@k_saifullaah](https://twitter.com/k_saifullaah) &nbsp;&middot;&nbsp;
-> LinkedIn [@khalidsaifullaah](https://www.linkedin.com/in/khalidsaifullaah/)
 
